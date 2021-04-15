@@ -1,0 +1,6 @@
+C:\Users\chira\source\repos\Number Guesser Game\Number Guesser Game\bin\Debug\Number Guesser Game.exe.config
+C:\Users\chira\source\repos\Number Guesser Game\Number Guesser Game\bin\Debug\Number Guesser Game.exe
+C:\Users\chira\source\repos\Number Guesser Game\Number Guesser Game\bin\Debug\Number Guesser Game.pdb
+C:\Users\chira\source\repos\Number Guesser Game\Number Guesser Game\obj\Debug\Number Guesser Game.csproj.CoreCompileInputs.cache
+C:\Users\chira\source\repos\Number Guesser Game\Number Guesser Game\obj\Debug\Number Guesser Game.exe
+C:\Users\chira\source\repos\Number Guesser Game\Number Guesser Game\obj\Debug\Number Guesser Game.pdb
